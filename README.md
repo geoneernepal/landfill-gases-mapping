@@ -13,7 +13,7 @@ In this project, we detected the landfill gases in the Sisdol area and visualize
 
 ## Authors
 
-- [@lostb1d](https://www.github.com/lostb1d)
+- [@lostb1d](https://www.github.com/lost1d)
 - [@sagargaire](https://www.github.com/sagargaire)
 
 
@@ -62,4 +62,13 @@ Please adhere to this project's `code of conduct`.
 
 
 ![Logo](http://geoneer.com.np/assests/img/logo.png)
+
+
+## Screenshots
+
+![App Screenshot](https://archive.org/download/github_202206/github.png)
+![App Screenshot](https://archive.org/download/github2_202206/github2.png)
+
+
+
 
