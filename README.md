@@ -13,7 +13,7 @@ In this project, we detected the landfill gases in the Sisdol area and visualize
 
 ## Authors
 
-- [@lostb1d](https://www.github.com/lost1d)
+- [@lostb1d](https://www.github.com/lostb1d)
 - [@sagargaire](https://www.github.com/sagargaire)
 
 
